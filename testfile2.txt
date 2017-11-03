@@ -1,0 +1,7 @@
+total 21
+drwxr-xr-x 1 MEA+Kishan.Mansukhani 3758096897   0 Nov  3 14:12 ./
+drwxr-xr-x 1 MEA+Kishan.Mansukhani 3758096897   0 Nov  3 14:05 ../
+drwxr-xr-x 1 MEA+Kishan.Mansukhani 3758096897   0 Nov  3 14:11 .git/
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 3758096897 161 Nov  3 14:11 testfile1.txt
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 3758096897   0 Nov  3 14:12 testfile2.txt
+drwxr-xr-x 1 MEA+Kishan.Mansukhani 3758096897   0 Nov  3 14:10 testfolder1/
